@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: my-react-app
+  annotations:
+    github.com/project-slug: daniel-wakefield-ro/my-react-app
+spec:
+  type: other
+  lifecycle: unknown
+  owner: daniel-wakefield-ro
