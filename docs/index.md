@@ -8,3 +8,4 @@ Basic React App
 
 ## Features
 - Basic React App
+- Hopefully integrates with techdocs and eventually github ci/cd
