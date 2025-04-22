@@ -4,7 +4,7 @@ metadata:
   name: my-react-app
   annotations:
     github.com/project-slug: daniel-wakefield-ro/my-react-app
-    backstage.io/techdocs-ref: value
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: website
   lifecycle: development
