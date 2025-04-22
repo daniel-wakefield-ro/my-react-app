@@ -5,11 +5,8 @@ metadata:
   annotations:
     github.com/project-slug: daniel-wakefield-ro/my-react-app
     backstage.io/source-location: url:https://github.com/daniel-wakefield-ro/my-react-app
-    # Add view URL for direct GitHub access
     backstage.io/view-url: https://github.com/daniel-wakefield-ro/my-react-app
-    # Add edit URL to allow quick edits from Backstage
     backstage.io/edit-url: https://github.com/daniel-wakefield-ro/my-react-app/edit/main
-    # Optional: Specify default branch if not 'main'
     github.com/default-branch: main
     backstage.io/techdocs-ref: dir:.
 spec:
