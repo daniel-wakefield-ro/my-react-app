@@ -4,7 +4,7 @@ metadata:
   name: my-react-app
   annotations:
     github.com/project-slug: daniel-wakefield-ro/my-react-app
-    backstage.io/source-location: https://github.com/daniel-wakefield-ro/my-react-app
+    backstage.io/source-location: url:https://github.com/daniel-wakefield-ro/my-react-app
     backstage.io/view-url: https://github.com/daniel-wakefield-ro/my-react-app
     backstage.io/techdocs-ref: dir:.
 spec:
