@@ -13,6 +13,7 @@ metadata:
     backstage.io/kubernetes-namespace: default
     backstage.io/kubernetes-service-name: my-react-app-service
     backstage.io/kubernetes-label-selector: 'app=my-react-app'
+    backstage.io/api-depends-on: 'component:example-grpc-api'
 spec:
   type: website
   lifecycle: development
