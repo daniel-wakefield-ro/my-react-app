@@ -12,6 +12,7 @@ metadata:
     backstage.io/kubernetes-id: my-react-app
     backstage.io/kubernetes-namespace: default
     backstage.io/kubernetes-service-name: my-react-app-service
+    backstage.io/kubernetes-label-selector: 'app=my-react-app'
 spec:
   type: website
   lifecycle: development
