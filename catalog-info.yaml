@@ -18,4 +18,4 @@ spec:
   lifecycle: development
   owner: user:daniel-wakefield-ro
   dependsOn:
-    - component: default/NewNewNodeService
+    - component:default/NewNewNodeService
