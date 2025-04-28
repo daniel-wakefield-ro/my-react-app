@@ -9,12 +9,12 @@ Basic React App
 ## Features
 - Basic React App
 ### Integrates With:
-  - Github 
-  - Github CI/CD
-  - Techdocs
-  - Kubernetes
-  - Datadog
-  - Dependency charts (via catalog-info.yaml)
+- Github 
+- Github CI/CD
+- Techdocs
+- Kubernetes
+- Datadog
+- Dependency charts (via catalog-info.yaml)
 
 ## Dan's Dev Notes
 
