@@ -1,6 +1,6 @@
 # my-react-app
 
-Welcome to the documentation for my-react-app!
+Welcome to the TechDocs for my-react-app!
 
 ## Overview
 
@@ -8,7 +8,13 @@ Basic React App
 
 ## Features
 - Basic React App
-- Hopefully integrates with techdocs and eventually github ci/cd
+### Integrates With:
+  - Github 
+  - Github CI/CD
+  - Techdocs
+  - Kubernetes
+  - Datadog
+  - Dependency charts (via catalog-info.yaml)
 
 ## Dan's Dev Notes
 
