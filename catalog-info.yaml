@@ -14,7 +14,7 @@ metadata:
     backstage.io/kubernetes-service-name: my-react-app-service
     backstage.io/kubernetes-label-selector: 'app=my-react-app'
     datadoghq.com/site: datadoghq.com
-    datadoghq.com/dashboard-url: https://p.datadoghq.com/sb/embed/30acddb70-d676173a178eab532dbc4abbac7a9112
+    datadoghq.com/dashboard-url: https://app.datadoghq.com/dashboard/h7t-3ae-8n9/chris-test?fromUser=false&refresh_mode=sliding&from_ts=1745860485002&to_ts=1745864085002&live=true
 spec:
   type: website
   lifecycle: development
