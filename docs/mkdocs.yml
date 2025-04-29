@@ -3,6 +3,7 @@ site_description: 'Basic React App'
 
 nav:
   - Home: index.md
+  - Catalog: ../catalog-info.yaml
 
 plugins:
   - techdocs-core
